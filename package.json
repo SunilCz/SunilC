@@ -1,0 +1,22 @@
+{
+  "name": "sunil",
+  "version": "1.0.1",
+  "description": "Sunil Chaudhary",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunilCz/SunilC.git"
+  },
+  "keywords": [
+    "7281"
+  ],
+  "author": "Sunil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SunilCz/SunilC/issues"
+  },
+  "homepage": "https://github.com/SunilCz/SunilC#readme"
+}
