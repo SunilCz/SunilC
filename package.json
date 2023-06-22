@@ -1,10 +1,13 @@
 {
-  "name": "sunil",
+  "name": "sunilcz",
   "version": "1.0.1",
   "description": "Sunil Chaudhary",
   "main": "index.js",
   "scripts": {
     "test": "jest"
+  },
+  "bin": {
+    "sunilcz":"./index.js"
   },
   "repository": {
     "type": "git",
